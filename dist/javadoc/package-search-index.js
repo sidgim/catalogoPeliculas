@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"mx.com.gm.peliculas.datos"},{"l":"mx.com.gm.peliculas.domain"},{"l":"mx.com.gm.peliculas.excepciones"},{"l":"mx.com.gm.peliculas.presentacion"},{"l":"mx.com.gm.peliculas.servicio"}]
